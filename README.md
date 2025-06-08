@@ -1,5 +1,7 @@
 [![NPM](https://nodei.co/npm/easybot.png)](https://nodei.co/npm/easybot/)
 
+## Ce projet n'est plus mis à jours depuis 5 ans. Si une personne souhaite le faire, libre à elle. 
+
 # 🧰 EasyBot
 
 ## 📥 Installation
